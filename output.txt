@@ -1,0 +1,163 @@
+*****************************************
+[QUESTION]**Java is an Object-oriented programming language.**
+
+UniqueID:3 selected False
+UniqueID:5 selected False
+UniqueID:89 selected True
+UniqueID:137 selected False
+UniqueID:81 selected False
+UniqueID:78 selected True
+UniqueID:33 selected False
+UniqueID:93 selected False
+UniqueID:24 selected True
+UniqueID:47 selected True
+UniqueID:29 selected True
+UniqueID:93 updated their answer submission to False
+UniqueID:68 selected True
+UniqueID:69 selected False
+UniqueID:58 selected False
+UniqueID:42 selected True
+UniqueID:117 selected False
+UniqueID:78 updated their answer submission to True
+UniqueID:53 selected True
+UniqueID:61 selected True
+UniqueID:114 selected True
+UniqueID:131 selected False
+UniqueID:57 selected False
+UniqueID:97 selected True
+UniqueID:25 selected True
+UniqueID:117 updated their answer submission to True
+UniqueID:65 selected True
+UniqueID:108 selected True
+UniqueID:62 selected False
+UniqueID:8 selected False
+UniqueID:49 selected True
+UniqueID:44 selected True
+UniqueID:43 selected True
+UniqueID:92 selected True
+UniqueID:2 selected False
+UniqueID:113 selected True
+UniqueID:75 selected True
+UniqueID:81 updated their answer submission to False
+UniqueID:82 selected True
+UniqueID:109 selected True
+UniqueID:57 updated their answer submission to True
+UniqueID:78 updated their answer submission to False
+UniqueID:80 selected False
+UniqueID:109 updated their answer submission to False
+UniqueID:69 updated their answer submission to True
+UniqueID:77 selected False
+UniqueID:27 selected False
+UniqueID:88 selected False
+UniqueID:141 selected True
+UniqueID:24 updated their answer submission to False
+UniqueID:26 selected True
+UniqueID:106 selected True
+UniqueID:53 updated their answer submission to True
+
+True:  [][][][][][][][][][][][][][][][][][][][][][][][][] 25
+False: [][][][][][][][][][][][][][][][][][] 18
+Total answer submissions: 53
+
+*****************************************
+[QUESTION]**Which are NOT features of OOP?**
+
+UniqueID:131 selected CD
+UniqueID:39 selected AC
+UniqueID:135 selected C
+UniqueID:94 selected A
+UniqueID:107 selected AB
+UniqueID:94 updated their answer submission to ABC
+UniqueID:70 selected ABC
+UniqueID:91 selected A
+UniqueID:65 selected AB
+UniqueID:1 selected AD
+UniqueID:76 selected C
+UniqueID:3 selected [blank]
+UniqueID:121 selected A
+UniqueID:106 selected ACD
+UniqueID:2 selected AD
+UniqueID:16 selected D
+UniqueID:51 selected AD
+UniqueID:35 selected AD
+UniqueID:103 selected D
+UniqueID:14 selected A
+UniqueID:50 selected [blank]
+UniqueID:70 updated their answer submission to AD
+UniqueID:40 selected ABCD
+UniqueID:127 selected AC
+UniqueID:144 selected BD
+UniqueID:17 selected D
+UniqueID:30 selected BC
+UniqueID:35 updated their answer submission to ACD
+UniqueID:92 selected BC
+UniqueID:6 selected B
+UniqueID:137 selected BC
+UniqueID:48 selected [blank]
+UniqueID:39 updated their answer submission to C
+UniqueID:147 selected AB
+UniqueID:74 selected BCD
+UniqueID:78 selected BCD
+UniqueID:70 updated their answer submission to ABC
+UniqueID:9 selected C
+UniqueID:15 selected ABCD
+UniqueID:70 updated their answer submission to ABCD
+UniqueID:56 selected ACD
+UniqueID:64 selected CD
+UniqueID:7 selected D
+UniqueID:15 updated their answer submission to C
+UniqueID:75 selected BC
+UniqueID:92 updated their answer submission to AD
+
+A: [][][][][][][][][][][][][][][][][][] 18
+B: [][][][][][][][][][][][][][] 14
+C: [][][][][][][][][][][][][][][][][][] 18
+D: [][][][][][][][][][][][][][][][][] 17
+Total answer submissions: 46
+
+*****************************************
+[QUESTION]**OCP stands for the Open-Closed principle**
+
+UniqueID:145 selected True
+UniqueID:127 selected True
+UniqueID:83 selected True
+UniqueID:45 selected False
+UniqueID:25 selected True
+UniqueID:13 selected False
+UniqueID:65 selected True
+UniqueID:66 selected True
+UniqueID:81 selected True
+UniqueID:100 selected False
+UniqueID:132 selected False
+UniqueID:62 selected True
+UniqueID:36 selected True
+UniqueID:71 selected True
+UniqueID:12 selected True
+UniqueID:90 selected False
+UniqueID:115 selected False
+UniqueID:44 selected False
+UniqueID:54 selected False
+UniqueID:2 selected True
+UniqueID:139 selected True
+UniqueID:34 selected True
+UniqueID:148 selected True
+UniqueID:3 selected True
+UniqueID:131 selected False
+UniqueID:16 selected False
+UniqueID:57 selected True
+UniqueID:131 updated their answer submission to False
+UniqueID:125 selected True
+UniqueID:94 selected True
+UniqueID:143 selected True
+UniqueID:54 updated their answer submission to True
+UniqueID:62 updated their answer submission to True
+UniqueID:131 updated their answer submission to False
+UniqueID:138 selected True
+UniqueID:102 selected False
+UniqueID:78 selected False
+UniqueID:123 selected False
+
+True:  [][][][][][][][][][][][][][][][][][][][][] 21
+False: [][][][][][][][][][][][][] 13
+Total answer submissions: 38
+
