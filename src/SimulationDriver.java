@@ -40,7 +40,7 @@ public class SimulationDriver {
 				answerSubmit[rand.nextInt(2)] = true; // simulate a random
 														// answer
 			} else
-				for (int j = 0; j < 4; j++) {
+				for (int j = 0; j < answerSubmit.length; j++) {
 					answerSubmit[j] = (rand.nextInt(2) != 0); // simulate random
 																// answer(s) for
 																// multiple
@@ -48,7 +48,7 @@ public class SimulationDriver {
 				}
 
 			ics.addAnswer(generatedStudent.getUniqueID(), answerSubmit); // add the answer
-			for (int k = 0; k < 4; k++) { // reset answers for next student
+			for (int k = 0; k < answerSubmit.length; k++) { // reset answers for next student
 				answerSubmit[k] = false;
 			}
 		}
